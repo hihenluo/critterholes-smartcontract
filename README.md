@@ -31,8 +31,8 @@ Follow these steps to set up the project locally for development and testing.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
+    git clone [https://github.com/hihenluo/critterholes-smartcontract.git]
+    cd critterholes-smartcontract
     ```
 
 2.  **Install Dependencies:**
